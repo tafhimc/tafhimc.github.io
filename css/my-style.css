@@ -14,3 +14,9 @@
   font-weight: 700;
   font-size: 50px;
 }
+
+@media(min-width: 1500px){
+  .the-message {
+    width:40%;
+  }
+}
