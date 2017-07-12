@@ -3,8 +3,9 @@
 }
 .the-message {
   background-color: #f4f4f4;
-  margin: 0 25%;
-  padding: 15%;
+  width: 50%;
+  margin: 0 auto;
+  padding: 17% 0;
 }
 
 .coming-soon {
